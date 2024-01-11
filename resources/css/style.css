@@ -10,6 +10,16 @@ h1 {
     color: white;
 }
 
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    color: gray;
+}
+
 a {
     color: aquamarine;
 }
