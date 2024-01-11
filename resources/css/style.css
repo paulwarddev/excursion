@@ -26,7 +26,11 @@ a {
 
 img, video {
     display: block;
-    margin: auto;
+    margin: 30px auto;
+}
+
+.footer {
+    text-align: right;
 }
 
 .download {
